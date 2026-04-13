@@ -16,3 +16,8 @@ activarlo `env312\scripts\activat`
 ``desactivate``
 
 ``pip list``sirve para mostar una tabla de todos los paquetes
+##  librerias en pythonun numeral un titulo grande , dos numerales subtitulos
+``pip install pandas numpy matlolib``
+pandas  manejo de datos →  `pip install pandas` 
+numpy calculo matematico → `pip install numpy` 
+matplotlib  graficos → `pip install matplotlib` 
