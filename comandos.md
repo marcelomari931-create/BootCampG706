@@ -11,7 +11,7 @@ git clone mas ruta para poder clonar un repositorio
 python --version 
 crear un entorno virtual en python     
 `python -m venv env312`
-activarlo `env312\scripts\activat`
+activarlo `env312\scripts\activate`
 
 ``desactivate``
 

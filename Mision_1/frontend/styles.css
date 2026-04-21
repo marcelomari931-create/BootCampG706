@@ -1,4 +1,4 @@
-body{background: rgb(0, 255, 191);
+body{background: rgb(55, 0, 255);
 
 
 
@@ -11,4 +11,10 @@ color: rgb(222, 135, 135);
 .estilo_h1_v2{
 
 color: rgb(15, 0, 128) ;
+    }
+    .mi_imagen{
+        border-radius: 8px;
+        box-shadow:0 6px 6px rgba(162, 8, 8, 0.973)
+
+
     }
